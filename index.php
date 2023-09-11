@@ -9,6 +9,7 @@
 
 <body>
     <h1>Hello World</h1>
+    <p>Hallo, selamat datang !</p>
 </body>
 
 </html>
